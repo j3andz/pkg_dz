@@ -1,4 +1,4 @@
-# 🧪 amaPKG_dz 🧪
+# 🧪 pkg_dz 🧪
 
 Proximamente...
 
