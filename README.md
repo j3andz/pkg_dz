@@ -1,6 +1,6 @@
 # 🧪 pkg_dz 🧪
 
-Proximamente...
+Un pequeño proyecto para buscar y descargar juegos, temas y otros documentos utilizando los enlaces de las tiendas(free shop) de varias consolas de PlayStation, los archivos se encuentran en formato .pkg los cuales se descryptan utilizando pkg2zip 
 
 # ☕️ Uso ☕️
 
