@@ -2,9 +2,14 @@
 
 Un pequeño proyecto para buscar y descargar juegos, temas y otros documentos utilizando los enlaces de las tiendas(free shop) de varias consolas de PlayStation, los archivos se encuentran en formato .pkg los cuales se descryptan utilizando pkg2zip 
 
-# ☕️ Uso ☕️
+## ☕️ Uso ☕️
 
-Proximamente...
+Iniciamos el proyecto, ya sea desde el código base o desde un archivo ejecutable.
+Buscamos por ejemplo un Juego y obtenemos su enlace y descargamos.
+
+Para desencriptar el archivo .pkg necesitamos utilizar pkg2zip.exe, arrastramos el archivo .pkg arriba del archivo ejecutable pkg2zip.exe y esperamos a que desencripte el archivo.
+
+Listo 👍🏻
 
 
 ## ⚒ Copilar ⚒
@@ -21,7 +26,7 @@ Clonamos el Proyecto
 
 Ingresamos al directorio del Proyecto
 
-```bash
+```python3
   cd pkg_dz
 ```
 
@@ -42,8 +47,21 @@ Esperamos a que se termine de copilar y ingresamos al directorio "dist" donde se
 Podemos descartar el directorio "build" y el archivo "pkg_dz.spec" 
 los cuales son creados en la instalación pero no nos serán de utilidad.
 
+## 🔗 Enlaces 🔗
 
+Comunidad en Telegram:
+
+[![pixeldz](https://img.shields.io/badge/PixelDZ-000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PixelDZ)
+
+Mi Usuario de Telegram:
+
+[![j3andz](https://img.shields.io/badge/j3andz-000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/j3andz)
+
+Repositorio de pkg2zip:
+
+[![pkg2zip](https://img.shields.io/badge/pkg2zip-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmozeiko/pkg2zip)
 
 ## 🚀 Desarrolladores 🚀
+
 [![@j3andz](https://img.shields.io/badge/GitHub-j3andz-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j3andz)
 
